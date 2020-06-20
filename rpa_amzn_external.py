@@ -79,12 +79,12 @@ print(msg)
 # Your Account Sid and Auth Token from twilio.com/console
 # DANGER! This is insecure. See http://twil.io/secure
 if msg == 'No delivery windows available. New windows are released throughout the day.':
-	account_sid = 'AC28b712127c5ce7c1d7aa5a45eeac0327'
-	auth_token = 'd0eae585cb5e1de7435c735c833770d1'
+	account_sid = '************'
+	auth_token = '************'
 	client = Client(account_sid, auth_token)
 	message = client.messages.create(
 	                              body='notification to order from amazon',
-	                              from_='+14156500997',
-	                              to='+12028990525')
+	                              from_='************',
+	                              to='************')
 else:
 	pass
