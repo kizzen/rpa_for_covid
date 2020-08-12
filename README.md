@@ -8,4 +8,6 @@ Main libraries used: <br>
 - API: Twilio (https://www.twilio.com/docs/usage/api) `pip install twilio`
 - Workflow scheduling: Airflow (https://airflow.apache.org/) `pip install airflow`
 
-For more information on the project, check out http://www.kizzen.io/rpa (or the notebook in this repo: Groceries_Covid.ipynb)
+For more information on the project, check out http://www.kizzen.io/rpa (or the notebook in this repo: Groceries_Covid.ipynb).
+
+My data science portfolio site: https://kizzen.github.io/
