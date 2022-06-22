@@ -55,7 +55,7 @@ marshmallow-enum==1.5.1
 marshmallow-sqlalchemy==0.22.3
 mccabe==0.6.1
 more-itertools==8.2.0
-numpy==1.18.3
+numpy==1.22.0
 olefile==0.46
 opencv-contrib-python==4.2.0.34
 packaging==20.1
